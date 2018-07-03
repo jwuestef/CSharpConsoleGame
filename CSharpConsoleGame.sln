@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGame", "ConsoleGame\ConsoleGame.csproj", "{F5B46BCD-6875-40D6-975F-966A6956403C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B46BCD-6875-40D6-975F-966A6956403C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B46BCD-6875-40D6-975F-966A6956403C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B46BCD-6875-40D6-975F-966A6956403C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B46BCD-6875-40D6-975F-966A6956403C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40C5D990-4158-4D0D-A1FF-EE20EAABE030}
+	EndGlobalSection
+EndGlobal
